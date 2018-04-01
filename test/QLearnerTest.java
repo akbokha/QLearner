@@ -1,11 +1,6 @@
-
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-/**
- *
- * @author s123188
- */
 public class QLearnerTest {
 
     /** Auxiliary method
